@@ -1,0 +1,1 @@
+Implementación de un programa en python que toma el indice gini de una API y pasa el dato a una función en C que convierte el dato flotante a un int, le suma 1 y lo devuelve, luego es impreso por python
